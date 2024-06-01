@@ -81,6 +81,7 @@
 - Data type: Loại dữ liệu trong phản hồi, là "text".
 - Response code: Mã phản hồi HTTP, là 200 (chỉ ra thành công).
 - Response message: Thông điệp phản hồi HTTP, là "OK".
+
 **Kết luận: Với 100 người dùng, mỗi yêu cầu HTTP được thực hiện thành công với thời gian tải trung bình (692 mili giây) và không có lỗi nào xảy ra. Điều này cho thấy rằng hệ thống của bạn có thể xử lý tốt tải từ 100 người dùng đồng thời mà không gặp sự cố nào đáng kể.**
   
 ## Theo dõi trong csv:
