@@ -47,6 +47,18 @@
 
 # Tạo file Loading.csv để hiển thị thông số
 ![](kq1.png)
+**Thông số trong câu lệnh này bao gồm:**
+- Thời gian chạy (time): Tổng thời gian bài kiểm thử đã chạy (00:00:01, 00:00:01, 00:00:03).
+- Tốc độ trung bình (avg): Số yêu cầu mỗi giây (2.0/s, 1.6/s, 1.0/s).
+- Thời gian nhỏ nhất (min): Thời gian phản hồi nhanh nhất (65 ms, 382 ms).
+- Thời gian lớn nhất (max): Thời gian phản hồi chậm nhất (1118 ms, 1598 ms).
+- Lỗi (err): Số lượng lỗi (0 lỗi trong cả ba lần).
+
+**Kết quả từng mẫu:**
+
+- Mẫu 1: Thời gian chạy là 00:00:02, tốc độ là 0.6 yêu cầu/giây, thời gian phản hồi nhỏ nhất là 1598 ms, không có lỗi.
+- Mẫu 2: Thời gian chạy là 00:00:01, tốc độ là 1.6 yêu cầu/giây, thời gian phản hồi nhỏ nhất là 609 ms, không có lỗi.
+- Mẫu 3: Thời gian chạy là 00:00:03, tốc độ là 1.0 yêu cầu/giây, thời gian phản hồi nhỏ nhất là 939 ms, không có lỗi.
 
 # Kết quả hiển thị trong file csv
 ![](kq2.png)
