@@ -15,5 +15,5 @@
 
 **thực hiện kiểm tra hiệu năng cho trang web Facebook.com với 100 người dùng: Facebook.com (https://www.facebook.com/)**
 - Trang web được lựa chọn sẽ là: https://www.facebook.com/
-![](20240527151259.png)
+![](fb1.png)
 
