@@ -5,9 +5,9 @@
 
 ## Kiểm thử hiệu năng
 **Kiểm thử hiệu năng là rất quan trọng, dùng để xác định ứng dụng web của mình có đáp ứng được tải cao hay không. Apache JMeter là một công cụ phổ biến dùng để kiểm thử hiệu năng, nó có một số lợi thế như sau:**
-<p>JMeter có thể được sử dụng để kiểm tra hiệu năng của cả resources tĩnh như JavaScript và HTML, cũng như các resources động như JSP, Servlets và AJAX.</p>
-<p>JMeter có thể cho biết số lượng người dùng đồng thời tối đa mà trang web của bạn có thể xử lý </p>
-<p>JMeter cung cấp một loạt các phân tích đồ họa của các báo cáo hiệu suất.</p>
+- JMeter có thể được sử dụng để kiểm tra hiệu năng của cả resources tĩnh như JavaScript và HTML, cũng như các resources động như JSP, Servlets và AJAX.
+- JMeter có thể cho biết số lượng người dùng đồng thời tối đa mà trang web của bạn có thể xử lý 
+- JMeter cung cấp một loạt các phân tích đồ họa của các báo cáo hiệu suất.
 
 **Kiểm thử hiệu năng JMeter bao gồm:**
 <p>Load Testing: Mô phỏng đồng thời nhiều người dùng truy cập một trang Web nào đó.</p>
