@@ -28,6 +28,22 @@
 
 - Kết quả khi chạy:
 ![](ketqua.png)
+**Đây là chi tiết của kết quả được hiển thị:**
+
+- Thread Name: Tên của nhóm luồng, trong trường hợp này là "Thread Group 1-1".
+- Sample Start: Thời gian bắt đầu lấy mẫu, là "2024-05-27 15:03:25 ICT".
+- Load time: Tổng thời gian thực hiện yêu cầu, là 581 mili giây.
+- Connect Time: Thời gian kết nối, là 94 mili giây.
+- Size in bytes: Tổng kích thước của phản hồi tính bằng byte, là 64736 byte.
+- Sent bytes: Số byte đã gửi, là 242 byte.
+- Headers size in bytes: Kích thước của header trong phản hồi, là 5100 byte.
+- Body size in bytes: Kích thước của nội dung phản hồi, là 59636 byte.
+- Sample Count: Số mẫu đã lấy, là 1.
+- Error Count: Số lỗi, là 0.
+- Data type: Loại dữ liệu trong phản hồi, là "text".
+- Response code: Mã phản hồi HTTP, là 200 (chỉ ra thành công).
+- Response message: Thông điệp phản hồi HTTP, là "OK".
+
 
 # Tạo file Loading.csv để hiển thị thông số
 ![](kq1.png)
