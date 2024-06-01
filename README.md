@@ -31,7 +31,6 @@
 **Đây là chi tiết của kết quả được hiển thị:**
 
 - Thread Name: Tên của nhóm luồng, trong trường hợp này là "Thread Group 1-1".
-- Sample Start: Thời gian bắt đầu lấy mẫu, là "2024-05-27 15:03:25 ICT".
 - Load time: Tổng thời gian thực hiện yêu cầu, là 581 mili giây.
 - Connect Time: Thời gian kết nối, là 94 mili giây.
 - Size in bytes: Tổng kích thước của phản hồi tính bằng byte, là 64736 byte.
@@ -68,7 +67,22 @@
 ![](kq3.png)
 - Kết quả:
 ![](kq4.png)
-- Theo dõi trong csv:
+**Kết quả hiển thị:**
+- Thread Name: Tên của nhóm luồng, trong trường hợp này là "Thread Group 1-98". Điều này cho thấy đây là mẫu của luồng thứ 98 trong nhóm luồng.
+- Load time: Tổng thời gian thực hiện yêu cầu, là 692 mili giây.
+- Connect Time: Thời gian kết nối, là 0 mili giây.
+- Latency: Thời gian từ khi gửi yêu cầu đến khi nhận được phản hồi đầu tiên, là 24 mili giây.
+- Size in bytes: Tổng kích thước của phản hồi tính bằng byte, là 72921 byte.
+- Sent bytes: Số byte đã gửi, là 437 byte.
+- Headers size in bytes: Kích thước của header trong phản hồi, là 9032 byte.
+- Body size in bytes: Kích thước của nội dung phản hồi, là 63889 byte.
+- Sample Count: Số mẫu đã lấy, là 1.
+- Error Count: Số lỗi, là 0.
+- Data type: Loại dữ liệu trong phản hồi, là "text".
+- Response code: Mã phản hồi HTTP, là 200 (chỉ ra thành công).
+- Response message: Thông điệp phản hồi HTTP, là "OK".
+**Kết luận: Với 100 người dùng, mỗi yêu cầu HTTP được thực hiện thành công với thời gian tải trung bình (692 mili giây) và không có lỗi nào xảy ra. Điều này cho thấy rằng hệ thống của bạn có thể xử lý tốt tải từ 100 người dùng đồng thời mà không gặp sự cố nào đáng kể.**
+  
+## Theo dõi trong csv:
 ![](kq5.png)
 
-# Kết luận: 
