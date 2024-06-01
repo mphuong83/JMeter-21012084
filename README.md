@@ -10,8 +10,8 @@
 - JMeter cung cấp một loạt các phân tích đồ họa của các báo cáo hiệu suất.
 
 **Kiểm thử hiệu năng JMeter bao gồm:**
-<p>Load Testing: Mô phỏng đồng thời nhiều người dùng truy cập một trang Web nào đó.</p>
-<p>Stress Testing: Mỗi máy chủ (server) web có khả năng tải tối đa. Khi tải vượt quá giới hạn, máy chủ sẽ bắt đầu phản hồi chậm và tạo ra lỗi. Mục đích của Stress Testing là tìm chịu tải tối đa mà máy chủ web có thể xử lý.</p>
+- Load Testing: Mô phỏng đồng thời nhiều người dùng truy cập một trang Web nào đó.</p>
+- Stress Testing: Mỗi máy chủ (server) web có khả năng tải tối đa. Khi tải vượt quá giới hạn, máy chủ sẽ bắt đầu phản hồi chậm và tạo ra lỗi. Mục đích của Stress Testing là tìm chịu tải tối đa mà máy chủ web có thể xử lý.
 
 **thực hiện kiểm tra hiệu năng cho trang web Google.com với 100 người dùng: Google.com (http://www.google.com)**
 - Trang web được lựa chọn sẽ là: https://www.facebook.com/
