@@ -13,7 +13,7 @@
 - Load Testing: Mô phỏng đồng thời nhiều người dùng truy cập một trang Web nào đó.</p>
 - Stress Testing: Mỗi máy chủ (server) web có khả năng tải tối đa. Khi tải vượt quá giới hạn, máy chủ sẽ bắt đầu phản hồi chậm và tạo ra lỗi. Mục đích của Stress Testing là tìm chịu tải tối đa mà máy chủ web có thể xử lý.
 
-**thực hiện kiểm tra hiệu năng cho trang web Google.com với 100 người dùng: Google.com (http://www.google.com)**
+**thực hiện kiểm tra hiệu năng cho trang web Facebook.com với 100 người dùng: Facebook.com (https://www.facebook.com/)**
 - Trang web được lựa chọn sẽ là: https://www.facebook.com/
 ![](20240527151259.png)
 
