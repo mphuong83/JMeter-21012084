@@ -15,5 +15,32 @@
 
 **thực hiện kiểm tra hiệu năng cho trang web Facebook.com với 100 người dùng: Facebook.com (https://www.facebook.com/)**
 - Trang web được lựa chọn sẽ là: https://www.facebook.com/
-![](fb1.png)
+![](facebook.png)
+# Thêm một HTTP Request Sampler
 
+- Thêm 2 trang web khác bao gồm:
+  - Trang web thứ nhất: https://www.facebook.com/friends
+  ![](facebook1.png)
+  - Trang web thứ hai: https://www.facebook.com/watch
+  ![](facebook2.png)
+
+# Thêm một Listener để ghi lại kết quả
+
+- Kết quả khi chạy:
+![](ketqua.png)
+
+# Tạo file Loading.csv để hiển thị thông số
+![](kq1.png)
+
+# Kết quả hiển thị trong file csv
+![](kq2.png)
+
+# Thay đổi cấu hình số lượng người dùng ảo: 
+- Thử tăng số lượng người dùng lên: 
+![](kq3.png)
+- Kết quả:
+![](kq4.png)
+- Theo dõi trong csv:
+![](kq5.png)
+
+# Kết luận: 
